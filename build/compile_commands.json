@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/wly/text/build",
+  "command": "/usr/bin/c++  -I/home/wly/text/GKD-Software-2025-Test/test/include -I/home/wly/text/pthread -isystem /usr/local/include/opencv4 -g -g -std=gnu++11 -o CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/main.cpp.o -c /home/wly/text/GKD-Software-2025-Test/test/src/main.cpp",
+  "file": "/home/wly/text/GKD-Software-2025-Test/test/src/main.cpp",
+  "output": "CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/main.cpp.o"
+},
+{
+  "directory": "/home/wly/text/build",
+  "command": "/usr/bin/c++  -I/home/wly/text/GKD-Software-2025-Test/test/include -I/home/wly/text/pthread -isystem /usr/local/include/opencv4 -g -g -std=gnu++11 -o CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/part1.cpp.o -c /home/wly/text/GKD-Software-2025-Test/test/src/part1.cpp",
+  "file": "/home/wly/text/GKD-Software-2025-Test/test/src/part1.cpp",
+  "output": "CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/part1.cpp.o"
+},
+{
+  "directory": "/home/wly/text/build",
+  "command": "/usr/bin/c++  -I/home/wly/text/GKD-Software-2025-Test/test/include -I/home/wly/text/pthread -isystem /usr/local/include/opencv4 -g -g -std=gnu++11 -o CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/part2.cpp.o -c /home/wly/text/GKD-Software-2025-Test/test/src/part2.cpp",
+  "file": "/home/wly/text/GKD-Software-2025-Test/test/src/part2.cpp",
+  "output": "CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/part2.cpp.o"
+},
+{
+  "directory": "/home/wly/text/build",
+  "command": "/usr/bin/c++  -I/home/wly/text/GKD-Software-2025-Test/test/include -I/home/wly/text/pthread -isystem /usr/local/include/opencv4 -g -g -std=gnu++11 -o CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/part6.cpp.o -c /home/wly/text/GKD-Software-2025-Test/test/src/part6.cpp",
+  "file": "/home/wly/text/GKD-Software-2025-Test/test/src/part6.cpp",
+  "output": "CMakeFiles/myapp.dir/GKD-Software-2025-Test/test/src/part6.cpp.o"
+}
+]

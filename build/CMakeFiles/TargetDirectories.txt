@@ -1,0 +1,3 @@
+/home/wly/text/build/CMakeFiles/myapp.dir
+/home/wly/text/build/CMakeFiles/edit_cache.dir
+/home/wly/text/build/CMakeFiles/rebuild_cache.dir
